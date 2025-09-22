@@ -3,9 +3,14 @@
 **StudentHub AI** is an **agentic AI system** built using **LangGraph**, designed to help students interact intelligently with their academic content.
 It uses a structured flow of tools (agents) to perform summarization, quiz generation, document-based Q&A (RAG), and fallback web search when needed.
 
+<img width="1055" height="527" alt="project 2" src="https://github.com/user-attachments/assets/ae74607d-529d-4e86-ad5c-8fb17f1b2983" />
+
 ---
 
 ## 🔁 Agentic AI Flow
+
+<img width="667" height="603" alt="workflow" src="https://github.com/user-attachments/assets/c34563e4-5fdb-4d51-bf87-2532b3d96384" />
+
 
 StudentHub uses **LangGraph** to manage a multi-step decision flow with the following tools:
 
@@ -28,6 +33,9 @@ Each tool is modular and only invoked when its corresponding intent is detected.
 - 📝 Generate quizzes automatically from queries
 - 📑 Summarize any academic or general content
 - 🌐 Fallback to web search for non-subject queries
+
+  <img width="1105" height="577" alt="project" src="https://github.com/user-attachments/assets/cce3efee-9bb2-4972-a573-7129e5955fe3" />
+
 
 ---
 
